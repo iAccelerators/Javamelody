@@ -3,11 +3,12 @@
 Step  1:
 Please add below dependency in your Pom.xml
 
-/* <dependency>
+```xml
+<dependency>
     <groupId>net.bull.javamelody</groupId>
     <artifactId>javamelody-core</artifactId>
     <version>1.73.1</version>
-</dependency>  */
+</dependency>  ```
 
 
 Step 2 : 
