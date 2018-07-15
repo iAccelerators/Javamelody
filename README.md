@@ -2,6 +2,8 @@
 
 # Why JavaMelody
 
+```xml
+
 •	The goal of JavaMelody is to monitor Java or Java EE applications in QA and production environments. 
 •	It is not a tool to simulate requests from users, it is a tool to measure and calculate statistics on real operation of an application depending on the usage of the application by users.
 
@@ -24,6 +26,8 @@ It includes summary charts showing the evolution over time of the following indi
 •	Number of jdbc connections
 
 These charts can be viewed on the current day, week, month, year or custom period.
+
+```
 
 # Javamelody Setup
 
