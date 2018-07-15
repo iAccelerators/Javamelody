@@ -31,6 +31,12 @@ These charts can be viewed on the current day, week, month, year or custom perio
 
 ```
 
+# More details 
+
+Home : https://github.com/javamelody/javamelody/wiki
+
+Charts : https://github.com/javamelody/javamelody/wiki/Screenshots#charts
+
 # Javamelody Setup
 
 ```xml
