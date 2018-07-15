@@ -4,8 +4,9 @@
 
 ```xml
 
-•	The goal of JavaMelody is to monitor Java or Java EE applications in QA and production environments. 
-•	It is not a tool to simulate requests from users, it is a tool to measure and calculate statistics on real operation of an application depending on the usage of the application by users.
+The goal of JavaMelody is to monitor Java or Java EE applications in QA and production environments. 
+It is not a tool to simulate requests from users, it is a tool to measure and calculate statistics on real 
+operation of an application depending on the usage of the application by users.
 
 JavaMelody is easy to integrate in most applications and is lightweight (no profiling and no database).
 JavaMelody is mainly based on statistics of requests and on evolution charts.
@@ -19,7 +20,8 @@ It allows to improve applications in QA and production and helps to:
 
 It includes summary charts showing the evolution over time of the following indicators:
 
-•	Number of executions, mean execution times and percentage of errors of http requests, sql requests, jsf actions, struts actions, jsp pages or methods of business façades (if EJB3, Spring or Guice)
+•	Number of executions, mean execution times and percentage of errors of http requests, sql requests, 
+jsf actions, struts actions, jsp pages or methods of business façades (if EJB3, Spring or Guice)
 •	Java memory
 •	Java CPU
 •	Number of user sessions
