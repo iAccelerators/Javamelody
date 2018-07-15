@@ -50,7 +50,9 @@ Please add below dependency in your Pom.xml
     <groupId>net.bull.javamelody</groupId>
     <artifactId>javamelody-core</artifactId>
     <version>1.73.1</version>
-</dependency>  ```
+</dependency>  
+
+```
 
 
 Step 2 : 
