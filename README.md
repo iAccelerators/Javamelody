@@ -65,7 +65,7 @@ Deploy the war file in tomcat server
 
 Step 4:
 
-Once application is deplyed and running, you can access the Montioring by below URL.
+Once application is deployed and running, you can access the Montioring by below URL.
 
 http://localhost:80XX/applicationContext/monitoring
 
